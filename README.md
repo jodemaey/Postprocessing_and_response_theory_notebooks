@@ -33,7 +33,7 @@ to compute the statistics.
 
 ## Installation
 
-To install these notebook, you must first install the [qgs model](https://github.com/Climdyn/qgs) and test that it works properly on your machine. Follow the instructions in the model documentation. Then you must move the present notebooks in the `notebooks` directory and run them with `jupyter-notebook`. In the qgs model main folder, do:
+To install these notebooks, you must first install the [qgs model](https://github.com/Climdyn/qgs) and test that it works properly on your machine. Follow the instructions in the model documentation. Then you must move the present notebooks in the `notebooks` directory and run them with `jupyter-notebook`. In the qgs model main folder, do:
 
     conda activate qgs
     cd notebooks
