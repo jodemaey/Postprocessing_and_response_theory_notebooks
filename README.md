@@ -1,6 +1,9 @@
 
 # Adaptation of postprocessing EVMOS schemes to model change with response theroy in the QGS model
 
+[![DOI](https://zenodo.org/badge/248772955.svg)](https://zenodo.org/badge/latestdoi/248772955)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## General Information
 
 These Jupyter notebooks come as a supplementary material to the article [Correcting for Model Changes in Statistical Post-Processing – An approach based on Response Theory](https://www.nonlin-processes-geophys-discuss.net/npg-2019-57/):
