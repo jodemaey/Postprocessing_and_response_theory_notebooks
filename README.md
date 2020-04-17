@@ -1,7 +1,7 @@
 
 # Adaptation of postprocessing EVMOS schemes to model change with response theory in the QGS model
 
-[![DOI](https://zenodo.org/badge/248772955.svg)](https://zenodo.org/badge/latestdoi/248772955)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3755313.svg)](https://doi.org/10.5281/zenodo.3755313)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## General Information
